@@ -1,1 +1,1 @@
-GPT model use cases
+OpenAi model use cases.
