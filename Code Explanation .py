@@ -1,5 +1,9 @@
 import openai
+import streamlit as st
+st.text('Code Explanation AI')
+
 openai.api_key="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"
+
 #method to print and update the message list with repsonse from gpt model.
 
 def get_gpt_response(messages):
